@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi ! I'm Louis Tamagny,
+# an aspiring backend developer from Nantes, France
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/louis-tamagny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis-tamagny" height="30" width="40" /></a>
+</p>
 
-<!--
-**louis-tamagny/louis-tamagny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Bookbuddy, a [personnal library manager](https://www.bookbuddy.ink/)
+- 🌱 I’m currently learning [Ruby on Rails](https://guides.rubyonrails.org/) and [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: louis.tamagny@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
