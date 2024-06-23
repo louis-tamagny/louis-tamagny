@@ -1,8 +1,11 @@
 ## 👋 Hi ! I'm Louis Tamagny,
 ### Aspiring backend developer from Nantes, France
 
-- 🔭 I’m currently working on Bookbuddy, a [personnal library manager](https://www.bookbuddy.ink/)
-- 🌱 I’m currently learning [Ruby on Rails](https://guides.rubyonrails.org/) and a [Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning)
+I am currently trying to find an apprenticeship for an MSc at EPSI Nantes: [Expert en Informatique et Système d’Information](https://www.epsi.fr/programmes/ingenierie-informatique/).
+Feel free to contact me if my profile corresponds to your demands.
+
+- 🔭 I’m currently working on [Bookbuddy, a personnal library manager](https://www.bookbuddy.ink/): it is a PWA made with the framework Ruby on Rails. We are mostly using Stimulus.JS, Bootstrap and some vanilla CSS for the front-end. Based on a group project at Le Wagon Nantes, I am using this application to keep learning by doing. 
+- 🌱 I’m currently learning [Java Programming through a course from the University of Helsinki](https://java-programming.mooc.fi/), [Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning) and a [generalist approach of AI in society](https://
 
 - 📫 How to reach me: louis.tamagny@gmail.com
 - 😄 Pronouns: he/him
@@ -15,4 +18,4 @@
 <a href="https://linkedin.com/in/louis-tamagny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis-tamagny" height="30" width="40" /></a>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66459bcff4bbac657037ddc9?variant=dark&roadmaps=backend)](https://roadmap.sh)
+![Codewars](https://github.r2v.ch/codewars?user=louis-tamagny)
