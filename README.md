@@ -18,4 +18,6 @@ Feel free to contact me if my profile corresponds to your demands.
 <a href="https://linkedin.com/in/louis-tamagny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis-tamagny" height="30" width="40" /></a>
 </p>
 
-![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card&colormode=dark_mode&name_only)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-tamagny&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+[![Codewars Badge](https://www.codewars.com/users/louis-tamagny/badges/large)](https://www.codewars.com/users/louis-tamagny)
