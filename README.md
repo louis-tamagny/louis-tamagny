@@ -1,8 +1,7 @@
-## 👋 Hi ! I'm Louis Tamagny,
-### Aspiring backend developer from Nantes, France
+## Hi ! I'm Louis Tamagny,
+### an aspiring backend developer from Nantes, France
 
-- 🔭 I’m currently working on [Bookbuddy, a personnal library manager](https://www.bookbuddy.ink/): it is a PWA made with the framework Ruby on Rails. We are mostly using Stimulus.JS, Bootstrap and some vanilla CSS for the front-end. Based on a group project at Le Wagon Nantes, I am using this application to keep learning by doing. 
-- 🌱 I’m currently learning [Ruby on Rails using the guides](https://guides.rubyonrails.org/) and Python with the framework [fastAPI](https://fastapi.tiangolo.com/).
+- I am currently working at Kuartz, a web development agency specialized in the field of renewable energies.
 
 - 📫 How to reach me: louis.tamagny@gmail.com or <a href="https://linkedin.com/in/louis-tamagny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis-tamagny" height="15" width="20" /></a>
 - Pronouns: he/him
